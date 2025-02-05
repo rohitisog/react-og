@@ -59,6 +59,7 @@ function TodoApp() {
           </li>
         ))}
       </ul>
+      <div>Built with ❤️</div>
     </div>
   );
 }
